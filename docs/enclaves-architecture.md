@@ -1,4 +1,4 @@
-# Unified Enclave Architecture
+handoff AWF_ENCLAVE_MCP_GATEWAY_CONTAINER, AWF_ENCLAVE_MCP_GATEWAY_ENDPOINT, and AWF_ENCLAVE_MCP_GATEWAY_IDENTITY, plus a distinct AWF_ENCLAVE_GITHUB_MCP_AGENT_ID.# Unified Enclave Architecture
 
 ## Status
 
